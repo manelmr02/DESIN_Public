@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
-        <exec.mainClass>org.cifpaviles.dam.actividad5_tema1_josemanuel.Actividad5_Tema1_JoseManuel</exec.mainClass>
+        <exec.mainClass>org.cifpaviles.dam.actividad5_tema1_josemanuel.Principal</exec.mainClass>
     </properties>
 </project>
